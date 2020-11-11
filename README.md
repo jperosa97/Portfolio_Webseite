@@ -9,7 +9,7 @@ Der Zweck dieser Website ist es, meine Projekte in meinem Portfolio anzuzeigen. 
 
 # Verwendete Frameworks / Bibliotheken / Sprachen
 
-- PHP/ wird demnächst kommen
+- PHP
 - Javascript
 - jQuery
 - CSS
